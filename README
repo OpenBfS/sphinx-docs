@@ -12,7 +12,10 @@ To get started contributing:
     * read http://jacobian.org/writing/great-documentation/what-to-write/
     * edit/add some .rst files
     * run `make html` in this directory
-    * run `make latexpdf` for pdf output (see below)
+    * run `make latexpdf` for latex and pdf output (see below)
+    * run `make epub` for epub output
+    * run `make man` for man pages output
+    * run `make clean` to clean _build directory
 
 PDF output depends on Latex/Tex:
     * Linux: ...coming soon...
